@@ -1,4 +1,4 @@
-"""TrackMaster — Multi-Object Tracking (DeepSORT + YOLOv8)"""
+﻿"""TrackMaster â€” Multi-Object Tracking (DeepSORT + YOLOv8)"""
 import numpy as np, cv2, argparse
 from collections import defaultdict
 
